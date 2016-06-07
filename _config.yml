@@ -1,11 +1,11 @@
 # Site settings
-title: PHOTORAMA
+title: PHOTO Gallery
 email: ""
 description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: /photorama
-instagram_username: ""
-github_username:  ""
+url: "http://livepuppet.github.io"
+baseurl: /photo-gallery
+instagram_username: "86xiaotong"
+github_username:  "livepuppet"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -13,7 +13,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   "photorama"
+  name:   "photogallery"
   avatar: avatar.png
   favicon: favicon.ico
   description: "Photo Journal"
